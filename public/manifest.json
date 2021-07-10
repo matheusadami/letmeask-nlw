@@ -1,0 +1,10 @@
+{
+  "name": "Letmeask",
+  "short_name": "Letmeask",
+  "theme_color": "#835afd",
+  "background_color": "#835afd",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "http://localhost:3000/",
+  "start_url": "http://localhost:3000/"
+}
